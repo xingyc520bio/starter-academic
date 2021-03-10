@@ -3,7 +3,7 @@
 title: Yicai Xing
 
 # Is this the primary user of the site?
-superuser: true
+superuser: no
 
 # Role/position/tagline
 role: Bachelar Candidatr of Biology
