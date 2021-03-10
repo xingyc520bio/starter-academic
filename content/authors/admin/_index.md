@@ -11,7 +11,7 @@ role: Bachelar Candidatr of Biology
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Tsinghua.university
-  url:https://www.tsinghua.edu.cn/
+  url: https://www.tsinghua.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include neuronscience, BCI and neuron diseases.
@@ -52,7 +52,7 @@ social:
 #   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: 
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
