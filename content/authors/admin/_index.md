@@ -23,6 +23,7 @@ interests:
 - BCI
 
 # Education to show in About widget
+
 education:
   -Highschool
   Middle school affiliated to Capital Normal University
